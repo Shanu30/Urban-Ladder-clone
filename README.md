@@ -41,7 +41,7 @@ Urban Ladder, an online furniture store, is home to exceptional furniture option
 6) MongoDB
 7) Material UI
 8) Module-CSS
-9) Ant Design
+9) Ant Design.
 
 
 
