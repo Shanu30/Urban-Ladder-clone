@@ -1,6 +1,6 @@
 
 # Urban-Ladder-clone
-# Urban Ladder CLONE
+
 <h3>About website</h3>
 Urban Ladder, an online furniture store, is home to exceptional furniture options for every part of your home including the bedroom, living room and kitchen.<br>
 <p align="center">
